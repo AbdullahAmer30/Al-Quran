@@ -1,0 +1,300 @@
+{
+  "heroarea": {
+    "imgurl1": "/assets/img/quran 1.png",
+   
+    "title":"Al Noor Quranic Center By Online Study Hub.",
+    "content": "comprehensive resources for anyone seeking to deepen their understanding and memorizing of the Quran and enhance their spiritual journey.",
+    "btn1label": "Download App",
+    "btn1url": "#",
+    "btn2label": "More Details",
+    "btn2url": "#"
+  },
+  "features": {
+    "sectiontitle": "APP FEATURES",
+    "imgurl1": "/assets/img/iphone-1.png",
+    "imgurl2": "/assets/img/iphone-2.png",
+    "featurescontent": [
+      {
+        "title": "Easy Installation",
+        "icon": "icofont-drawing-tablet",
+        "content": "Way nor furnished sir procuring therefore but. Warmth far manner myself active are cannot"
+      },
+      {
+        "title": "Responsive Design",
+        "icon": "icofont-responsive",
+        "content": "Way nor furnished sir procuring therefore but. Warmth far manner myself active are cannot"
+      },
+      {
+        "title": "Flexible Interface",
+        "icon": "icofont-ui-note",
+        "content": "Way nor furnished sir procuring therefore but. Warmth far manner myself active are cannot"
+      },
+      {
+        "title": "High Resolution",
+        "icon": "icofont-file-avi-mp4",
+        "content": "Way nor furnished sir procuring therefore but. Warmth far manner myself active are cannot"
+      },
+      {
+        "title": "Bug Free Code",
+        "icon": "icofont-code-alt",
+        "content": "Way nor furnished sir procuring therefore but. Warmth far manner myself active are cannot"
+      },
+      {
+        "title": "Cloud Storage",
+        "icon": "icofont-cloud-refresh",
+        "content": "Way nor furnished sir procuring therefore but. Warmth far manner myself active are cannot"
+      }
+
+    ]
+  },
+  "trials":{
+    "Heading":"Learn Quran Online By Following These Steps",
+   "main":[ {
+
+"Subheading":"Book Trial to Start Learning Online",
+"content":"Just to make sure that you get the best experience in Quran learning with us we will give you a free 3-day trial of learning with us. Fill out the form and you are all set for the classes."
+  },
+  {
+    
+    "Subheading":"Schedule your online Quran classes",
+    "content":"Schedule your online Quran classes with the best Quran scholars our academy has to offer. In the 3 day trial, we won't ask you for any kind of payment or any charges."
+      },
+      {
+    
+        "Subheading":"Get Enrolled In the Quran Course",
+        "content":"Al-hamd is one of the most prestigious Quran learning academies online. Not only do we teach the Quran but we also teach life according to sunnah and Hadith."
+      }
+]},
+  "feature1": {
+    "imgurl1": "/assets/img/about illustration.png",
+    "title":"Open the Gates of Knowledge",
+    "content": "Welcome to [Platform Name], your trusted online hub for Quranic learning. Our mission is simple: to provide accessible, comprehensive resources for anyone seeking to deepen their understanding and memorizing of the Quran and enhance their spiritual journey. With expert-led courses and user-friendly tools, we're here to support learners of all levels. Join us and explore the beauty and wisdom of the Quran today.",
+    "btn1label": "More detail",
+    "btn1url": "#"
+  },
+  "feature2": {
+    "imgurl1": "/assets/img/6mockup1.png",
+    "imgurl2": "/assets/img/6mockup2.png",
+    "title":"Download App",
+    "content": "Over fact all son tell this any his. No insisted confined of weddings to returned to debating rendered. Keeps order fully so do party means young. Table nay him jokes quick.",
+    "btn1label": "Available on<br/>Google store",
+    "btn1url": "#",
+    "btn2label": "Available on<br/>Apple store",
+    "btn2url": "#"
+
+  },
+  "services":[
+      {
+        "title": "basic noorani qaida",
+        "icon": "/assets/img/book outline.png",
+        "content": "The first step to learn Quran online is to know the basic alphabet, and Noorani Qaida is the initial stage in Quranic learning. Enroll with us to learn Noorani Qaida online."
+      },
+      {
+        "title": "quran reading with tajweed",
+        "icon": "/assets/img/tajweed3.png",
+        "content": "Master online Noorani Qaida, then perfect pronunciation for Quranic reading. Join our online Quran reading and recitation sessions to refine your skills further."
+      },
+      {
+        "title": "memorize quran",
+        "icon": "/assets/img/Quran.png",
+        "content": "Our popular course, Hifz Quran Online, aids adults and kids in memorizing the Quran. Learn from native Arabic and non-Arabic teachers to master Quranic memorization efficiently."
+      },
+      {
+        "title": "daily duas",
+        "icon": "/assets/img/daily dua.png",
+        "content": "Learn essential Quranic Dua and Hadith from our Ulamas. Our online Quran teachers guide you to live according to Islamic teachings, fostering a fulfilling way of life."
+      },
+      {
+        "title": "arabic language course",
+        "icon": "/assets/img/arabic word.png",
+        "content": "Master the Islamic language with our comprehensive course, guiding you to fluency and understanding of Arabic for a deeper connection to Islamic teachings and heritage."
+      },
+      {
+        "title": "tafsir & translation course ",
+        "icon": "/assets/img/tafseer.png",
+        "content": "Unravel the profound meaning of the Quran within 3 months through our comprehensive Online Quran classes, offering an in-depth understanding of its teachings."
+      },
+      {
+        "title": "islamic supplication",
+        "icon": "/assets/img/prayer mat 2.png",
+        "content": "Elevate your spiritual practice with our specialized Islamic supplication course, fostering a deeper connection to spirituality and divine guidance."
+      },
+      {
+        "title": "islamic studies",
+        "icon":"/assets/img/islamic studies.png",
+        "content": "Enrich your understanding of Islam through our comprehensive Islamic studies course, offering profound insights into its principles, history, and teachings."
+      }
+ 
+    ],
+  "howitworks": {
+    "sectiontitle": "Services",
+    "features": [
+      {
+        "title": "Configuration",
+        "icon": "icofont-iphone",
+        "content": "Literature admiration frequently indulgence announcing"
+      },
+      {
+        "title": "Refresh Setup",
+        "icon": "icofont-refresh",
+        "content": "Literature admiration frequently indulgence announcing"
+      },
+      {
+        "title": "Start Using App",
+        "icon": "icofont-hand-drag1",
+        "content": "Literature admiration frequently indulgence announcing"
+      }
+ 
+    ]
+  },
+  "screenshots": {
+    "sectiontitle": "APP SCREENSHOTS",
+    "images": [
+      "/assets/img/ss1.png",
+      "/assets/img/ss2.png",
+      "/assets/img/ss3.png",
+      "/assets/img/ss4.png",
+      "/assets/img/ss5.png"
+    ]
+  },
+  "preface": {
+    "sectiontitle": "APP PREFACE",
+    "imgurl": "/assets/img/preface.png",
+    "title":"Booming news: Google play apps has been relese",
+    "content": "Needed feebly dining oh talked wisdom oppose at. Applauded use attempted strangers now are middleton concluded had. It is tried ﻿no added purse shall no on truth. Pleased anxious or as in by viewing forbade minutes prevent. Too leave had those get being led weeks blind. Had men rose from down lady able. Its son him ferrars proceed six parlors",
+    "btn1label": "Available on<br/>Google store",
+    "btn1url": "#",
+    "btn2label": "Available on<br/>Apple store",
+    "btn2url": "#"
+
+  },
+  "pricingtable": {
+    "sectiontitle": "Pricing Plans",
+    "tables": [
+      {
+        "title": "Starter",
+        "currency": "$",
+        "Startprice": "30",
+        "Endprice": "35",
+        "duration": "Monthly",
+        "url": "#",
+        "features": [
+          "30 Minutes Daily",
+          "3 Lessons Per Week"
+        ]
+      },
+      {
+        "title": "Popular",
+        "currency": "$",
+        "Startprice": "40",
+        "Endprice": "45",
+        "duration": "Monthly",
+        "url": "#",
+        "features": [
+          "30 Minutes Daily",
+          "5 Lessons Per Week"
+          
+        ]
+      },
+      {
+        "title": "Premium",
+        "currency": "$",
+        "Startprice": "25",
+        "Endprice": "30",
+        "duration": "Monthly",
+        "url": "#",
+        "features": [
+          "Saturday & Sunday",
+          "2 Lessons Per Week"
+        ]
+      }
+      
+    ]
+  },
+  "testimonial":[
+    {
+      "client": "Muhammad Abdullah",
+      "designation": "Apps Developer",
+      "imgurl": "/assets/img/user.png",
+      "content": "“ Al Noor Quranic Center provided me with an enriching Quranic learning experience. Their dedicated instructors and interactive courses made learning enjoyable and rewarding.”"
+    },
+    {
+      "client": "Basit Khan",
+      "designation": "Digital Marketer",
+      "imgurl": "/assets/img/user.png",
+      "content": "“ I am grateful to Al Noor Quranic Center for guiding me on my journey to understand the Quran better. Their supportive environment and personalized approach truly make a difference. ”"
+    },
+    {
+      "client": "Nabila Ali",
+      "designation": "Web Developer",
+      "imgurl": "/assets/img/user.png",
+      "content": "“At Al Noor Quranic Center, I found a community dedicated to nurturing a deeper connection with the Quran. Their commitment to excellence and spiritual growth is commendable.”"
+    },
+    {
+      "client": "Amna Abbasi",
+      "designation": "Web Developer",
+      "imgurl": "/assets/img/user.png",
+      "content": "“Al Noor Quranic Center offers a holistic approach to Quranic education, blending traditional teachings with modern methods. I'm impressed by their dedication to student success.”"
+    },
+    {
+      "client": "Akram Shahid",
+      "designation": "Web Developer",
+      "imgurl": "/assets/img/user.png",
+      "content": "“Choosing Al Noor Quranic Center was one of the best decisions I made. Their emphasis on both Quranic knowledge and character development sets them apart as an exceptional institution.”"
+    }
+  ],
+"blogs":{
+  "sectiontitle": "LATEST BLOG",
+  "blogs":[
+    {
+      "title": "Top inspirational apps UI for you 2019",
+      "date": "08 Nov. 2022",
+      "imgurl": "/assets/img/blog/4.jpg",
+      "author": "Appiya",
+      "comment": "05 Comments",
+      "category": "Apps UI",
+      "content": "Far curiosity incommode now led smallness allowance. Favour bed assure son things yet. She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small."
+    },
+    {
+      "title": "Trendy Google apps you should check 2019",
+      "date": "08 Nov. 2022",
+      "imgurl": "/assets/img/blog/4.jpg",
+      "author": "Appiya",
+      "comment": "05 Comments",
+      "category": "Google Play",
+      "content": "Far curiosity incommode now led smallness allowance. Favour bed assure son things yet. She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small."
+    },
+    {
+      "title": "Booming news: Google play apps has been relese",
+      "date": "08 Nov. 2022",
+      "imgurl": "/assets/img/blog/4.jpg",
+      "author": "Appiya",
+      "comment": "05 Comments",
+      "category": "App Features",
+      "content": "Far curiosity incommode now led smallness allowance. Favour bed assure son things yet. She consisted consulted elsewhere happiness disposing household any old the. Widow downs you new shade drift hopes small."
+    }
+  ]
+},
+"contact": {
+  "title":"Get in touch",
+  "contactinfo": {
+    "address":{
+      "title": "Address",
+      "icon":"/assets/img/location.png",
+      "info": "49 Park Avenue, <br> Newyork , NY 10016"
+    },
+    "phone":{
+      "title": "Phone",
+      "icon": "/assets/img/telephone.png",
+      "info": "92+3495888510"
+    },
+    "email":{
+      "title": "Email Address",
+      "icon": "/assets/img/mail.png",
+      "info": "alnoorislamiccenter588@gmail.com"
+    }
+  },
+  "formtitle": "Ask any kind of questions",
+  "formdescription": "Feel free to ask any questions you may have; we're here to provide you with the answers and support you need."
+}
+}

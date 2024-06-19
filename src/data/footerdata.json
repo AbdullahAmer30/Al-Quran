@@ -1,0 +1,51 @@
+{
+  "footerlogo": "/assets/img/logo 4W.png",
+  "footertext": "May indulgence difficulty ham can put especially. Bringing remember for supplied her why was confined. Middleton principle did she procuring extensive believing add.",
+    "socialicon": [
+      {
+        "icon": "/assets/img/facebook.png",
+        "url": "#"
+      },
+      {
+        "icon": "/assets/img/instagram.png",
+        "url": "#"
+      },
+      {
+        "icon": "/assets/img/twitter.png",
+        "url": ""
+      }
+
+    ],
+    "payment":[
+      {
+        "icon": "/assets/img/pay card0.png",
+        "url": "#"
+      },
+      {
+        "icon": "/assets/img/pay card1.png",
+        "url": "#"
+      },
+      {
+        "icon": "/assets/img/pay card2.png",
+        "url": ""
+      },
+      {
+        "icon": "/assets/img/pay card3.png",
+        "url": "#"
+      },
+      {
+        "icon": "/assets/img/pay card4.png",
+        "url": "#"
+      },
+      {
+        "icon": "/assets/img/pay card5.png",
+        "url": ""
+      },
+      {
+        "icon": "/assets/img/pay card6.png",
+        "url": ""
+      }
+    ],
+  "copyrighttext": "© AlNoor Quranic Center By Online Study Hub  2023. All Rights Reserved."
+
+}

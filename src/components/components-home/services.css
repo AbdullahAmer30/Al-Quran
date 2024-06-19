@@ -1,0 +1,28 @@
+.bg-color{
+    background-color: white;
+    color: #252525;
+    border: #0C0C0C;
+}
+.whole-bg {
+    background-color: #f1f1f1;
+    background-image: url('bg-illust.jpg'); /* Adjust the path based on your directory structure */
+    background-size: cover; /* Adjust background size as needed */
+    background-position: center; /* Adjust background position as needed */
+    /* Add more background properties as needed */
+}
+
+.service-box:hover{
+    background-color: #cea85b;
+    color: whitesmoke;
+}
+.whole-bg h2{
+    color:#252525;
+}
+.address-box i{
+    color: #252525;
+}
+.address-box:hover i{
+    color: whitesmoke;
+}
+
+

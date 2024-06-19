@@ -1,0 +1,19 @@
+.hero-bg{
+    background-color: whitesmoke;
+}
+
+/* .animate-left {
+    animation: slideInLeft 0.5s ease; 
+  }
+  
+  @keyframes slideInLeft {
+    0% {
+      opacity: 0;
+      transform: translateX(-100%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateX(0);
+    }
+  }
+   */
