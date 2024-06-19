@@ -16,8 +16,8 @@ import Blogfullrightsidebar from "./components/components-blog/blog-full-right-s
 import Singleblog from "./components/components-blog/single-blog";
 import Singleleftsidebar from "./components/components-blog/single-left-sidebar";
 import Singlerightsidebar from "./components/components-blog/single-right-sidebar";
-import ScrollToTop from "./components/components-global/ScrollToTop";
-import WhatsAppIcon from "./components/components-home/WhatsAppIcon";
+// import ScrollToTop from "./components/components-global/ScrollToTop";
+// import WhatsAppIcon from "./components/components-home/WhatsAppIcon";
 
 class Root extends Component {
   render() {

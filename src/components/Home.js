@@ -1,38 +1,27 @@
+// Home.js
 import React from 'react';
-import Blog from './components-home/Blog';
-import Contact from './components-home/Contact';
-import Feature from './components-home/Feature';
-import FeatureOne from './components-home/FeatureOne';
-import FeatureTwo from './components-home/FeatureTwo';
 import Heroarea from './components-home/Heroarea';
+import TrialSection from './components-home/trialSection';
+import FeatureOne from './components-home/FeatureOne';
+import FaqSection from './components-home/FaqSection';
+import Services from './components-home/Services';
 import Pricing from './components-home/Pricing';
 import Testimonials from './components-home/Testimonials';
-import Services from './components-home/Services';
-//import Preface from './components-home/Preface';
-import Howitworks from './components-home/Howitworks';
-//import Screenshots from './components-home/Screenshots';
-import WhatsAppIcon from './components-home/WhatsAppIcon';// Import WhatsAppIcon component
-import TrialSection from './components-home/trialSection';
-import FaqSection from './components-home/FaqSection';
+import Contact from './components-home/Contact';
+import WhatsAppIcon from './components-home/WhatsAppIcon'; // Make sure this import is correct
 
 const Home = () => {
     return (
       <div>
         <Heroarea />
-        {/* <Feature /> */}
-        <TrialSection/>
+        <TrialSection />
         <FeatureOne />
-        <FaqSection/>
-        {/* <FeatureTwo /> */}
+        <FaqSection />
         <Services />
-        {/* <Howitworks /> */}
-        {/* <Screenshots /> */}
-        {/*   */}
         <Pricing />
         <Testimonials />
-        {/* <Blog /> */}
         <Contact />
-        <WhatsAppIcon /> {/* Add WhatsAppIcon component here */}
+        <WhatsAppIcon /> {/* Ensure this component is correctly imported */}
       </div>
     );
 }
