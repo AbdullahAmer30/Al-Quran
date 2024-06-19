@@ -29,7 +29,7 @@ class Root extends Component {
             {/* <ScrollToTop /> */}
             <Routes>
               <Route path="/" element={<Home />} />
-              <Route path="/blog-full" element={<Blogfull data={blogdata} />} />
+              {/* <Route path="/blog-full" element={<Blogfull data={blogdata} />} />
               <Route path="/blog-2-col" element={<Blog2col data={blogdata} />} />
               <Route path="/blog-3-col" element={<Blog3col data={blogdata} />} />
               <Route
@@ -48,7 +48,7 @@ class Root extends Component {
               <Route
                 path="/single-right-sidebar"
                 element={<Singlerightsidebar data={Singleblogdata} />}
-              />
+              /> */}
             </Routes>
             <Footer data={Footerdata} />
           </div>
