@@ -2,7 +2,6 @@
   "name": "appiya-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://themeatelier.net/react-project/appiya/",
   "dependencies": {
     "jquery": "^3.7.1",
     "react": "^16.7.0",
