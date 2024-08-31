@@ -24,7 +24,7 @@ class Testimonials extends Component {
                            <div className="col-lg-10 col-md-9">
                               <p>{data.content}</p>
                               <h5>{data.client}</h5>
-                              {/* <p className="designation">{data.designation}</p> */}
+                              <p className="designation">{data.designation}</p>
                               <p className="ratings">
                                  <i className="icofont-ui-rating"></i>
                                  <i className="icofont-ui-rating"></i>

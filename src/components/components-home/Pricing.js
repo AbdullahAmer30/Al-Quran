@@ -1,11 +1,12 @@
 import React, { Component } from 'react';
 import homedata from '../../data/homedata.json';
+import bg1 from './quran.jpg'
 import './pricing.css'
 
 class Pricing extends Component {
   render() {
     return (
-      <section id="pricing" className="p-80px-tb parallax bg-color opacity-5" style={{backgroundImage: 'url(./assets/img/pricing-bg.jpg)'}}>
+      <section id="pricing" className="p-80px-tb parallax bg-colors opacity-5" style={{backgroundImage: `url(${bg1})`}}>
          <div className="container">
             <div className="row">
                <div className="col-sm-8 offset-sm-2">

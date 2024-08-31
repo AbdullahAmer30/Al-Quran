@@ -1,6 +1,7 @@
 import React from 'react'
 import './trialSection.css'
 import homedata from '../../data/homedata.json';
+import Quran1 from './quran1.jpg'
 const TrialSection = () => {
   return (
     <>
@@ -32,7 +33,7 @@ const TrialSection = () => {
         <a className='book-btn'href='#'>Book Your Free Trial Now!</a>
       </div>
     </div> */}
-    <section className="p-80px-tb parallax bg-color opacity-5" style={{backgroundImage: 'url(./assets/img/pricing-bg.jpg)'}}>
+    <section className="p-80px-tb parallax bg-color opacity-5" style={{backgroundImage: `url(${Quran1})`}}>
          <div className="container">
             <div className="row">
                <div className="col-sm-12 offset-sm-0">

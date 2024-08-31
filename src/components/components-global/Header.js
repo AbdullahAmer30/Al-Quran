@@ -10,9 +10,9 @@ const Header = () => {
         <div>
             <header id="home">
                 <nav className="navbar navbar-inverse navbar-expand-lg header-nav fixed-top light-header nav-bgcolor">
-                    <div className="container">
+                    <div className="container-fluid">
                         <a className="navbar-brand">
-                            <img src={process.env.PUBLIC_URL + '/assets/img/logo 4W.png'} alt={imgattr} />
+                            <img src={process.env.PUBLIC_URL + '/assets/img/logoN.png'} className='image' alt={imgattr} />
                         </a>
                         <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCodeply">
                             <i className="icofont-navigation-menu"></i>

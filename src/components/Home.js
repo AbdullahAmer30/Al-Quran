@@ -8,20 +8,25 @@ import Services from './components-home/Services';
 import Pricing from './components-home/Pricing';
 import Testimonials from './components-home/Testimonials';
 import Contact from './components-home/Contact';
-import WhatsAppIcon from './components-home/WhatsAppIcon'; // Make sure this import is correct
+import Adds from './components-home/adds';
+import Adds2 from './components-home/adds2';
+import WhatsAppIcon from './components-home/WhatsAppIcon';
 
 const Home = () => {
     return (
       <div>
+       
         <Heroarea />
         <TrialSection />
+        <Adds/>
         <FeatureOne />
         <FaqSection />
         <Services />
+        <Adds2/>
         <Pricing />
         <Testimonials />
         <Contact />
-        <WhatsAppIcon /> {/* Ensure this component is correctly imported */}
+        <WhatsAppIcon /> 
       </div>
     );
 }

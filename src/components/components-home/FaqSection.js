@@ -11,27 +11,27 @@ const FaqSection = () => {
     const faqData = [
         {
             question: 'Easy Online Quran Classes for Kids',
-            answer: 'Al-Hamd Official has the most simple online Quran teaching methods for kids. Learn Quran online with expert Quran tutors & recite the Quran in a beautiful Arabic way!',
+            answer: 'Experience the easiest online Quran learning methods for kids. Learn Quran online with expert tutors and recite the Quran beautifully in Arabic!',
         },
         {
             question: 'While Teaching the Quran we also do Tarbiyah',
-            answer: 'Tarbiyah means growth. We will make sure to give you or your child the right kind of mindset to grow and become a new you with online Quran learning.',
+            answer: 'Tarbiyah signifies growth. We will ensure you or your child develop the right mindset to grow and transform through online Quran learning.',
         },
         {
             question: '1 on 1 online Quran classes',
-            answer: 'Learn Quran online in 1 on 1 class to make sure you get the best out of the class. The teacher and time would be of your choice and will make sure you get the full attention you need',
+            answer: 'Learn the Quran online with personalized 1-on-1 classes to ensure you get the most out of your lessons. Choose your own teacher and schedule to receive the full attention you deserve.',
         },
         {
             question: 'Affordable Monthly Tuition Fee',
-            answer: 'We provide learn Quran online courses for everyone and we make sure that its affordable for everyone. Our charges start from 20€ to 80€.',
+            answer: 'We offer online Quran courses for everyone and ensure they are affordable. Our fees range from $30 to $45.',
         },
         {
             question: 'Learn Quran Online with Flexible Schedule',
-            answer: 'You or your child can learn Quran online and set up your schedule as you want! We offer 1 on 1 online Quran learning and online Quran reading classes 24/7.',
+            answer: 'You or your child can learn the Quran online and set your own schedule! We offer 1-on-1 online Quran learning and reading classes available 24/7.',
         },
         {
             question: 'Qualified Quran Teachers',
-            answer: 'Our online Quran teachers are well qualified and given a proper education from a prestigious Islamic institution. We have Arab and non-Arab speaking teachers who will give their best',
+            answer: 'Our online Quran teachers are highly qualified, having received proper education from prestigious Islamic institutions. We offer both Arab and non-Arab speaking teachers who are dedicated to providing the best instruction.',
         },
         // Add more FAQ items as needed
     ];

@@ -12,7 +12,7 @@
 }
 
 .footer-logo img {
-    max-width: 150px;
+    max-width: 60px;
     margin-bottom: 20px;
 }
 
@@ -98,7 +98,7 @@
 
 .imgg {
     width: 1.5rem;
-    height: 1.5rem;
+    height: auto;
 }
 
 /* Responsive Styles */

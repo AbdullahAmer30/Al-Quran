@@ -9,6 +9,11 @@
     "btn2label": "More Details",
     "btn2url": "#"
   },
+
+  "adds":{
+"add1":"/assets/img/add1.png",
+"add2":"/assets/img/add2.png"
+  },
   "features": {
     "sectiontitle": "APP FEATURES",
     "imgurl1": "/assets/img/iphone-1.png",
@@ -52,17 +57,17 @@
    "main":[ {
 
 "Subheading":"Book Trial to Start Learning Online",
-"content":"Just to make sure that you get the best experience in Quran learning with us we will give you a free 3-day trial of learning with us. Fill out the form and you are all set for the classes."
+"content":"To ensure you have the best experience learning the Quran with us, we offer a free 3-day trial. Simply fill out the form, and you'll be all set for the classes."
   },
   {
     
     "Subheading":"Schedule your online Quran classes",
-    "content":"Schedule your online Quran classes with the best Quran scholars our academy has to offer. In the 3 day trial, we won't ask you for any kind of payment or any charges."
+    "content":"Schedule your online Quran classes with the top scholars from our academy. Enjoy a 3-day trial without any payment or charges."
       },
       {
     
         "Subheading":"Get Enrolled In the Quran Course",
-        "content":"Al-hamd is one of the most prestigious Quran learning academies online. Not only do we teach the Quran but we also teach life according to sunnah and Hadith."
+        "content":"Our academy is one of the most prestigious online Quran learning institutions. We not only teach the Quran but also guide you on living according to the Sunnah and Hadith."
       }
 ]},
   "feature1": {
@@ -214,31 +219,31 @@
   "testimonial":[
     {
       "client": "Muhammad Abdullah",
-      "designation": "Apps Developer",
+      "designation": "United Kingdom",
       "imgurl": "/assets/img/user.png",
       "content": "“ Al Noor Quranic Center provided me with an enriching Quranic learning experience. Their dedicated instructors and interactive courses made learning enjoyable and rewarding.”"
     },
     {
       "client": "Basit Khan",
-      "designation": "Digital Marketer",
+      "designation": "Vancouvar",
       "imgurl": "/assets/img/user.png",
       "content": "“ I am grateful to Al Noor Quranic Center for guiding me on my journey to understand the Quran better. Their supportive environment and personalized approach truly make a difference. ”"
     },
     {
       "client": "Nabila Ali",
-      "designation": "Web Developer",
+      "designation": "Canada",
       "imgurl": "/assets/img/user.png",
       "content": "“At Al Noor Quranic Center, I found a community dedicated to nurturing a deeper connection with the Quran. Their commitment to excellence and spiritual growth is commendable.”"
     },
     {
       "client": "Amna Abbasi",
-      "designation": "Web Developer",
+      "designation": "United Kingdom",
       "imgurl": "/assets/img/user.png",
       "content": "“Al Noor Quranic Center offers a holistic approach to Quranic education, blending traditional teachings with modern methods. I'm impressed by their dedication to student success.”"
     },
     {
       "client": "Akram Shahid",
-      "designation": "Web Developer",
+      "designation": "America",
       "imgurl": "/assets/img/user.png",
       "content": "“Choosing Al Noor Quranic Center was one of the best decisions I made. Their emphasis on both Quranic knowledge and character development sets them apart as an exceptional institution.”"
     }
@@ -281,12 +286,12 @@
     "address":{
       "title": "Address",
       "icon":"/assets/img/location.png",
-      "info": "49 Park Avenue, <br> Newyork , NY 10016"
+      "info": "Islamabad, <br> Pakistan"
     },
     "phone":{
       "title": "Phone",
       "icon": "/assets/img/telephone.png",
-      "info": "92+3495888510"
+      "info": "+44 7928998608"
     },
     "email":{
       "title": "Email Address",

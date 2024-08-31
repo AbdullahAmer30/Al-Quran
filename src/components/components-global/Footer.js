@@ -105,7 +105,7 @@ class Footer extends Component {
             <div className="col-md-4 text-right">
               <div className="footer-topp">
                 <a className="footer-logo" href={logoLink}>
-                  <img src={publicUrl + data.footerlogo} alt={logoAttr} />
+                  <img src={publicUrl + `/assets/img/logonew.png`}  alt={logoAttr} />
                 </a>
                 <p>{data.footertext}</p>
                 <div className="social-network">

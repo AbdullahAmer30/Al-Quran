@@ -6,6 +6,12 @@
   color: aliceblue;
   
 }   */
-/* img{
-  max-width:50%;
-} */
+.image{
+  position: relative;
+  width:60px;
+  top:0;
+  height:auto;
+  /* border-radius: 50%; */
+  /* mix-blend-mode: color-burn; */
+
+}
