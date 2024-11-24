@@ -1,17 +1,42 @@
  /* .nav-bgcolor{
-  background-color: white;
- }
-.link-color{
+  background-color: black;
+ } */
+/* .link-color{
   background-color: gray !important;
   color: aliceblue;
   
 }   */
 .image{
+  object-fit:contain;
+  /* ob */
   position: relative;
-  width:60px;
+  max-width:140px;
   top:0;
   height:auto;
   /* border-radius: 50%; */
   /* mix-blend-mode: color-burn; */
 
 }
+.imggg{
+  /* width: 100% !important; */
+  /* height: 150px !important; */
+}
+/* Phone number section */
+/* Phone number section */
+.phone-number {
+  background-color: #f8f9fa; /* Light background color */
+  padding: 10px 0;
+  text-align: center;
+  font-size: 14px;
+  color: #333;
+  position: sticky; /* Make it sticky */
+  top: 0; /* Stick to the top */
+  z-index: 999; /* Ensure it is above other content */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional shadow effect */
+}
+
+.phone-number p {
+  margin: 0;
+}
+
+

@@ -24,7 +24,9 @@ class Contact extends Component {
                   <div className="address-box text-center p-15px m-15px-b">
                      <img src={publicUrl+homedata.contact.contactinfo.phone.icon}/>
                      <h5>{homedata.contact.contactinfo.phone.title}</h5>
-                     <p dangerouslySetInnerHTML={{__html: homedata.contact.contactinfo.phone.info}}></p>
+                     <p dangerouslySetInnerHTML={{__html: homedata.contact.contactinfo.phone.info1}}></p>
+                     <p dangerouslySetInnerHTML={{__html: homedata.contact.contactinfo.phone.info2}}></p>
+
                   </div>
                   <div className="address-box text-center p-15px">
                   <img src={publicUrl+homedata.contact.contactinfo.email.icon}/>

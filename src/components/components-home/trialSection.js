@@ -33,6 +33,7 @@ const TrialSection = () => {
         <a className='book-btn'href='#'>Book Your Free Trial Now!</a>
       </div>
     </div> */}
+    <img className='BismillAllahLogo' src="/assets/img/BismillAllah.jpg"/>
     <section className="p-80px-tb parallax bg-color opacity-5" style={{backgroundImage: `url(${Quran1})`}}>
          <div className="container">
             <div className="row">

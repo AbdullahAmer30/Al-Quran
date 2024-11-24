@@ -1,12 +1,66 @@
 /* WhatsAppIcon.css */
 .whatsapp-icon {
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    z-index: 9999;
-  }
-  
-  .whatsapp-icon img {
-    width: 60px; /* Adjust the size of the icon as needed */
-  }
-  
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 9999;
+}
+
+.whatsapp-icon img {
+  width: 60px;
+}
+
+/* Modal container */
+.modal {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 1000;
+  transition: opacity 0.3s ease, transform 0.3s ease;
+  opacity: 0;
+  transform: translateY(-100%);
+  pointer-events: none; /* Prevent interaction while hidden */
+}
+
+/* Modal content (stays the same) */
+.modal-content {
+  background-color: white;
+  padding: 20px;
+  width: 80vh;
+  border-radius: 8px;
+  text-align: center;
+}
+
+/* Transition for modal to show */
+.modal-show {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto; /* Allow interaction when shown */
+}
+
+/* Transition for modal to hide */
+.modal-hide {
+  opacity: 0;
+  transform: translateY(-100%);
+}
+
+.modal-content button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  background-color: #25d366; /* WhatsApp green */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.modal-content button:hover {
+  background-color: #1ebe5a;
+}

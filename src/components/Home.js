@@ -20,12 +20,12 @@ const Home = () => {
         <TrialSection />
         <Adds/>
         <FeatureOne />
-        <FaqSection />
+        <Pricing />
         <Services />
         <Adds2/>
-        <Pricing />
-        <Testimonials />
+        <FaqSection />
         <Contact />
+        <Testimonials />
         <WhatsAppIcon /> 
       </div>
     );

@@ -91,3 +91,13 @@
   .trial-btn{
     color: #cea85b;
   }
+
+.BismillAllahLogo{
+  display: flex;
+  width: 30%;
+  background-color: #21363d;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 37%;
+}

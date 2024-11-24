@@ -2,7 +2,7 @@
   "heroarea": {
     "imgurl1": "/assets/img/quran 1.png",
    
-    "title":"Al Noor Quranic Center By Online Study Hub.",
+    "title":"Al Noor Quranic Center By Online Education Hub.",
     "content": "comprehensive resources for anyone seeking to deepen their understanding and memorizing of the Quran and enhance their spiritual journey.",
     "btn1label": "Download App",
     "btn1url": "#",
@@ -73,7 +73,7 @@
   "feature1": {
     "imgurl1": "/assets/img/about illustration.png",
     "title":"Open the Gates of Knowledge",
-    "content": "Welcome to [Platform Name], your trusted online hub for Quranic learning. Our mission is simple: to provide accessible, comprehensive resources for anyone seeking to deepen their understanding and memorizing of the Quran and enhance their spiritual journey. With expert-led courses and user-friendly tools, we're here to support learners of all levels. Join us and explore the beauty and wisdom of the Quran today.",
+    "content": "Welcome to Al Noor Quranic Center By Online Education Hub, your trusted online hub for Quranic learning. Our mission is simple: to provide accessible, comprehensive resources for anyone seeking to deepen their understanding and memorizing of the Quran and enhance their spiritual journey. With expert-led courses and user-friendly tools, we're here to support learners of all levels. Join us and explore the beauty and wisdom of the Quran today.",
     "btn1label": "More detail",
     "btn1url": "#"
   },
@@ -291,7 +291,8 @@
     "phone":{
       "title": "Phone",
       "icon": "/assets/img/telephone.png",
-      "info": "+44 7928998608"
+      "info1": "+44 7928998608",
+      "info2":"+92 3495888510"
     },
     "email":{
       "title": "Email Address",

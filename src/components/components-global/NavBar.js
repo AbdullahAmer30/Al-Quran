@@ -1,110 +1,23 @@
-// import React, { Component } from "react";
-// import {
-//   Navbar,
-//   Nav,
-//   NavbarToggler,
-//   NavItem,
-//   NavLink,
-//   Container,
-//   Collapse
-// } from "reactstrap";
-// import { Link } from "react-router-dom";
-import React, { useEffect, useState } from 'react';
-import './navbar.css'
+import React, { useEffect } from 'react';
+import './navbar.css';
 import StickyMenu from './StickyMenu';
 import Navigation from './Navigation';
-
-// Import Logo
-// import logodark from "../../assets/images/logo-dark.png";
-// import logolight from "../../assets/images/logo-light.png";
 import { FaBars } from 'react-icons/fa';
-//import icon
-// import FeatherIcon from "feather-icons-react";
 
-// import ScrollspyNav from "./Scrollspy";
 function NavbarPage({ action }) {
   useEffect(() => {
     StickyMenu();
   }, []);
 
-// class NavbarPage extends Component {
-//   constructor(props) {
-//     super(props);
-//     this.state = {
-//       isOpenMenu: false,
-//     };
-//   }
-  // render() {
-  //   let targetId = this.props.navItems.map((item) => {
-  //     return item.idnm;
-  //   });
-    return (
-      // <React.Fragment>
-      //   <Container>
-      //     <Navbar
-      //       expand="lg"
-      //       fixed={this.props.top === true ? "top" : ""}
-      //       className={this.props.navClass + " fixed-top navbar-custom sticky sticky-dark align-items-center"}
-      //       id="navbar"
-      //       container
-      //     >
-      //       <Link className="logo me-3" to="/">
-      //         {this.props.imglight === true ? (
-      //           <img src={logolight} alt="" height="26" />
-      //         ) : (
-      //           <img src={logodark} alt="" height="26" />
-      //         )}
-      //       </Link>
-      //       <NavbarToggler onClick={this.toggle}>
-      //         <span className="ti-menu"></span>
-      //       </NavbarToggler>
-      //       <Collapse
-      //         id="navbarCollapse"
-      //         isOpen={this.state.isOpenMenu}
-      //         className=" navbar-collapse"
-      //       >
-      //         <ScrollspyNav
-      //           scrollTargetIds={targetId}
-      //           scrollDuration="800"
-      //           headerBackground="true"
-      //           activeNavClass="active"
-      //           className="navbar-collapse"
-      //         >
-      //           <Nav className="navbar-nav navbar-center" id="navbar-navlist">
-      //             {this.props.navItems.map((item, key) => (
-      //               <NavItem
-      //                 key={key}
-      //                 className={item.navheading === "Home" ? "active" : ""}
-      //               >
-      //                 <NavLink
-      //                   className={item.navheading === "Home" ? "active" : ""}
-      //                   href={"#" + item.idnm}
-      //                 >
-      //                   {item.navheading}
-      //                 </NavLink>
-      //               </NavItem>
-      //             ))}
-      //           </Nav>
-      //           <ul className="list-inline ml-auto menu-social-icon mb-0 py-2 py-lg-0">
-      //             <li className="list-inline-item ml-0">
-      //               <Link to="#" className="menu-social-link"><FeatherIcon icon="facebook" className="icon-xs sw_1-5" /></Link>
-      //             </li>{" "}
-      //             <li className="list-inline-item">
-      //               <Link to="#" className="menu-social-link"><FeatherIcon icon="twitter" className="icon-xs sw_1-5" /></Link>
-      //             </li>{" "}
-      //             <li className="list-inline-item">
-      //               <Link to="#" className="menu-social-link"><FeatherIcon icon="instagram" className="icon-xs sw_1-5" /></Link>
-      //             </li>{" "}
-      //             <li className="list-inline-item mr-0">
-      //               <Link to="#" className="menu-social-link"><FeatherIcon icon="linkedin" className="icon-xs sw_1-5" /></Link>
-      //             </li>
-      //           </ul>
-      //         </ScrollspyNav>
-      //       </Collapse>
-      //     </Navbar>
-      //   </Container>
-      // </React.Fragment>
-      <>
+  return (
+    <>
+      {/* Phone number section */}
+      <div className="phone-number">
+        <div className="container">
+          <p>Call Us: +1-234-567-890</p>
+        </div>
+      </div>
+
       <header className="DR-header-area DR-header-8-area DR-sticky navbar navbar-inverse navbar-expand-lg header-nav fixed-top light-header">
         <div className="container">
           <div className="header-nav-box header-nav-box-6">
@@ -117,7 +30,7 @@ function NavbarPage({ action }) {
                 </div>
               </div>
               <div className="col-lg-6 col-md-1 col-sm-1 order-3 order-sm-2">
-                <div className="DR-header-main-menu navigation" >
+                <div className="DR-header-main-menu navigation">
                   <Navigation />
                 </div>
               </div>
@@ -127,7 +40,7 @@ function NavbarPage({ action }) {
                     onClick={(e) => action(e)}
                     className="toggle-btn ml-30 canvas_open d-lg-none d-block"
                   >
-                    <FaBars/>
+                    <FaBars />
                   </div>
                 </div>
               </div>
@@ -136,8 +49,7 @@ function NavbarPage({ action }) {
         </div>
       </header>
     </>
-    );
-  }
-// }
-// }
+  );
+}
+
 export default NavbarPage;

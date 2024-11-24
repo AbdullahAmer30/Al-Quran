@@ -28,7 +28,7 @@ const Heroarea = () => {
                         <h2 className="text-capitalize m-25px-b">{homedata.heroarea.title}</h2>
                         <p className="m-25px-b">{homedata.heroarea.content}</p>
                         <div className="hero-btn-wrapper ">
-                            <a href={homedata.heroarea.btn1url} className="btn btn-default animated-btn">{homedata.heroarea.btn1label}</a>
+                            {/* <a href={homedata.heroarea.btn1url} className="btn btn-default animated-btn">{homedata.heroarea.btn1label}</a> */}
                             {/* <a className="btn btn-default btn-default-outline animated-btn" href={homedata.heroarea.btn2url}>{homedata.heroarea.btn2label}</a> */}
                         </div>
                     </div>
