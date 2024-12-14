@@ -181,6 +181,7 @@
         "currency": "$",
         "Startprice": "30",
         "Endprice": "35",
+        "usd":"USD",
         "duration": "Monthly",
         "url": "#",
         "features": [
@@ -193,6 +194,7 @@
         "currency": "$",
         "Startprice": "40",
         "Endprice": "45",
+        "usd":"USD",
         "duration": "Monthly",
         "url": "#",
         "features": [
@@ -206,6 +208,7 @@
         "currency": "$",
         "Startprice": "25",
         "Endprice": "30",
+        "usd":"USD",
         "duration": "Monthly",
         "url": "#",
         "features": [

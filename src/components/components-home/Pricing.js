@@ -22,7 +22,8 @@ class Pricing extends Component {
                         <div className="pricing-head p-60px-lr lg-p-30px-lr">
                            <div className="pricing-head-text">
                               <div className="package-price">
-                                 <span className="price">{data.currency}{data.Startprice}-{data.Endprice}</span><br></br><span className="validity">{data.duration}</span>
+                                 <span className="price">{data.currency}{data.Startprice}-{data.Endprice}{' '}
+                                 <span style={{ fontSize: "0.5em" }}>{data.usd}</span></span><br></br><span className="validity">{data.duration}</span>
                               </div>
                               {/* <div className="package-name">
                                  <h5>{data.title}</h5>
