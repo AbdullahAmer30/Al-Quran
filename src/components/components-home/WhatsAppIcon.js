@@ -31,8 +31,8 @@ const WhatsAppIcon = () => {
                 <div className={`modal ${showModal ? 'modal-show' : 'modal-hide'}`}>
                     <div className="modal-content">
                         <h3>Choose a WhatsApp Number</h3>
-                        <button onClick={() => handleNumberClick('+923129435942')}>WhatsApp Number 1</button>
-                        <button onClick={() => handleNumberClick('+923001234567')}>WhatsApp Number 2</button>
+                        <button onClick={() => handleNumberClick('+923495888510')}>Pakistan Number</button>
+                        <button onClick={() => handleNumberClick('+447928998608')}>UK Number</button>
                         <button onClick={closeModal}>Cancel</button>
                     </div>
                 </div>

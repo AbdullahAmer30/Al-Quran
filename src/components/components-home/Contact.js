@@ -37,7 +37,7 @@ class Contact extends Component {
                <div className="col-lg-8 col-md-6 contact-form p-30px">
                   <h3 className="m-25px-b">{homedata.contact.formtitle}</h3>
                   <p className="m-25px-b">{homedata.contact.formdescription}</p>
-                  <form id="contact-form" method="post" action="#">
+                  <form id="contact-form" method="#" action="#">
                      <div className="message">
                         <p className="email-success alert alert-success"><i className="icon icon-icon-check-alt2"></i> Your quote has successfully been sent.  <button type="button" className="close" data-dismiss="alert" aria-label="Close">
                            <span aria-hidden="true">&times;</span></button>
