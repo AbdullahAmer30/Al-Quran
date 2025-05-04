@@ -1,17 +1,17 @@
-import { useState } from 'react';
+// import { useState } from 'react';
 
-function useToggle(initValue = false) {
-    const [value, setValue] = useState(initValue);
-    return [
-        value,
-        {
-            set: setValue,
-            toggle: (e) => {
-                e.preventDefault();
-                setValue((flag) => !flag);
-            },
-        },
-    ];
-}
+// function useToggle(initValue = false) {
+//     const [value, setValue] = useState(initValue);
+//     return [
+//         value,
+//         {
+//             set: setValue,
+//             toggle: (e) => {
+//                 e.preventDefault();
+//                 setValue((flag) => !flag);
+//             },
+//         },
+//     ];
+// }
 
-export default useToggle;
+// export default useToggle;
