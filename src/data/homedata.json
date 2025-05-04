@@ -2,7 +2,7 @@
   "heroarea": {
     "imgurl1": "/assets/img/quran 1.png",
    
-    "title":"Al Noor Quranic Center By Online Education Hub.",
+    "title":"Al Noor Quranic Center By Online Education Hub",
     "content": "comprehensive resources for anyone seeking to deepen their understanding and memorizing of the Quran and enhance their spiritual journey.",
     "btn1label": "Download App",
     "btn1url": "#",
@@ -90,42 +90,42 @@
   },
   "services":[
       {
-        "title": "basic noorani qaida",
+        "title": "Basic Noorani Qaida",
         "icon": "/assets/img/book outline.png",
         "content": "The first step to learn Quran online is to know the basic alphabet, and Noorani Qaida is the initial stage in Quranic learning. Enroll with us to learn Noorani Qaida online."
       },
       {
-        "title": "quran reading with tajweed",
+        "title": "Quran Reading With Tajweed",
         "icon": "/assets/img/tajweed3.png",
         "content": "Master online Noorani Qaida, then perfect pronunciation for Quranic reading. Join our online Quran reading and recitation sessions to refine your skills further."
       },
       {
-        "title": "memorize quran",
+        "title": "Memorize Quran",
         "icon": "/assets/img/Quran.png",
         "content": "Our popular course, Hifz Quran Online, aids adults and kids in memorizing the Quran. Learn from native Arabic and non-Arabic teachers to master Quranic memorization efficiently."
       },
       {
-        "title": "daily duas",
+        "title": "Daily Duas",
         "icon": "/assets/img/daily dua.png",
         "content": "Learn essential Quranic Dua and Hadith from our Ulamas. Our online Quran teachers guide you to live according to Islamic teachings, fostering a fulfilling way of life."
       },
       {
-        "title": "arabic language course",
+        "title": "Arabic Language Course",
         "icon": "/assets/img/arabic word.png",
         "content": "Master the Islamic language with our comprehensive course, guiding you to fluency and understanding of Arabic for a deeper connection to Islamic teachings and heritage."
       },
       {
-        "title": "tafsir & translation course ",
+        "title": "Tafsir & Translation Course ",
         "icon": "/assets/img/tafseer.png",
         "content": "Unravel the profound meaning of the Quran within 3 months through our comprehensive Online Quran classes, offering an in-depth understanding of its teachings."
       },
       {
-        "title": "islamic supplication",
+        "title": "Islamic Supplication",
         "icon": "/assets/img/prayer mat 2.png",
         "content": "Elevate your spiritual practice with our specialized Islamic supplication course, fostering a deeper connection to spirituality and divine guidance."
       },
       {
-        "title": "islamic studies",
+        "title": "Islamic Studies",
         "icon":"/assets/img/islamic studies.png",
         "content": "Enrich your understanding of Islam through our comprehensive Islamic studies course, offering profound insights into its principles, history, and teachings."
       }
